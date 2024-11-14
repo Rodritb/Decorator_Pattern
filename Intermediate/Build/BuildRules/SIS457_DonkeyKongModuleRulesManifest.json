@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\DonkeyKong_SIS457\\SIS457_DonkeyKong\\Source\\SIS457_DonkeyKong\\SIS457_DonkeyKong.Build.cs",
+		"F:\\DonkeyKong_SIS457\\SIS457_DonkeyKong\\Source\\SIS457_DonkeyKong.Target.cs",
+		"F:\\DonkeyKong_SIS457\\SIS457_DonkeyKong\\Source\\SIS457_DonkeyKongEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
